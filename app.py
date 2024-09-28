@@ -1,5 +1,7 @@
 import os
 
+
+#opa seila qualuqer coisa
 restaurantes = [{'nome':'praça', 'categoria': 'japonesa', 'ativo':False},
                 {'nome': 'Pizza suprema', 'categoria':'Italiana', 'ativo':True},
                 {'nome': 'Cauan Dog', 'categoria':'Brasileira', 'ativo':False}]
